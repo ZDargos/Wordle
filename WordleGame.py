@@ -191,6 +191,3 @@ while(gameOn):
     print("These letters are in the word ", C_Letters)
     print("These letters are in the right spot ", C_Spot)
 
-
-# print(val)
-# img = cv2.imread(r'C:\Users\zrdra\OneDrive\Pictures\Screenshots\Screenshot (1).png')
